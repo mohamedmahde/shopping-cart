@@ -1,0 +1,11 @@
+اسم المستخدم:admin2
+كلمة السعر:admin2
+
+
+localhost/shoppingCart
+الموقع
+
+localhost/shoppingCart/admin
+لوحة التحكم
+
+
